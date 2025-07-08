@@ -1,0 +1,29 @@
+[33mcommit e633d86e8ac104411cea5498428408a3019295f3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Vinicius Teixeira <vinist.002@gmail.com>
+Date:   Tue Jul 8 12:59:35 2025 -0300
+
+    Descrição dos Services
+
+[33mcommit 3fd9ee134e14546f1a469f30168f4268ae0c0fd0[m
+Author: Vinicius Teixeira <vinist.002@gmail.com>
+Date:   Tue Jul 8 12:55:40 2025 -0300
+
+    Adicionados Services 'Cliente' e 'ViaCep'
+
+[33mcommit bc5a07e44d4c31ceb18e4fd41daae01edb72d1e1[m
+Author: Vinicius Teixeira <vinist.002@gmail.com>
+Date:   Tue Jul 8 12:42:07 2025 -0300
+
+    Criados repositories 'ClienteRepository' e 'EnderecoRepository'
+
+[33mcommit 8e30c7beefb8761ab45d3377d05bedc619777a56[m
+Author: Vinicius Teixeira <vinist.002@gmail.com>
+Date:   Tue Jul 8 12:38:46 2025 -0300
+
+    Criadas classes 'Cliente' e 'Endereco'
+
+[33mcommit a1e6876bacad4ab5e4d21c4e03563c62cf62707f[m
+Author: Vinicius Teixeira <vinist.002@gmail.com>
+Date:   Tue Jul 8 12:26:27 2025 -0300
+
+    Inicializando o projeto
